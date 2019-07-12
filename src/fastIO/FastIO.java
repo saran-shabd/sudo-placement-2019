@@ -3,6 +3,7 @@ package fastIO;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.math.BigInteger;
 import java.util.StringTokenizer;
 
 public class FastIO {
@@ -24,6 +25,10 @@ public class FastIO {
 
     public int nextInt() {
         return Integer.parseInt(next());
+    }
+
+    public BigInteger nextBigInteger() {
+        return new BigInteger(next());
     }
 
     public long nextLong() {
