@@ -1,6 +1,6 @@
 package arraysAndSearching;
 
-import fastIO.FastIO;
+import misc.FastIO;
 import java.util.HashMap;
 
 public class CountDistinctElementsInEveryWindow {

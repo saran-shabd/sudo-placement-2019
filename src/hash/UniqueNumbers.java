@@ -1,6 +1,6 @@
 package hash;
 
-import fastIO.FastIO;
+import misc.FastIO;
 
 public class UniqueNumbers {
 

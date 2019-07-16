@@ -1,6 +1,6 @@
 package strings;
 
-import fastIO.FastIO;
+import misc.FastIO;
 import java.util.StringTokenizer;
 
 public class ValidateIPAddress {

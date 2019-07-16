@@ -1,6 +1,6 @@
 package strings;
 
-import fastIO.FastIO;
+import misc.FastIO;
 
 public class BinaryString {
 

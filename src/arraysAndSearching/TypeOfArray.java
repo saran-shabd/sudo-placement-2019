@@ -1,6 +1,6 @@
 package arraysAndSearching;
 
-import fastIO.FastIO;
+import misc.FastIO;
 
 public class TypeOfArray {
 

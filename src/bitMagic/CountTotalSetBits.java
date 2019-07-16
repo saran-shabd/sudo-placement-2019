@@ -1,6 +1,6 @@
 package bitMagic;
 
-import fastIO.FastIO;
+import misc.FastIO;
 
 public class CountTotalSetBits {
 

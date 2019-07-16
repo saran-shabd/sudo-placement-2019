@@ -1,7 +1,7 @@
 package arraysAndSearching;
 
 import java.util.Arrays;
-import fastIO.FastIO;
+import misc.FastIO;
 
 public class FirstAndLastOccurrenceOfX {
 
